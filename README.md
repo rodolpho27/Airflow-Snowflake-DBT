@@ -1,1 +1,2 @@
-# Airflow-Snowflake-DBT
+# Objetivo do projeto:
+Consumir os dados de uma empresa ficticia e utilizar o airflow que está instalando em uma EC2(AWS) para a orquestração e imputar os dados no Snowflake para construção de Datawarehouse
